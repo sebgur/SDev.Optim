@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SDev.Optim/v16
+/Apps/Test/bin
+/Apps/Test/obj
+/SDev.Optim/.vs/SDev.Optim/v16
+/SDev.Optim/bin
+/SDev.Optim/obj
